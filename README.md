@@ -1,2 +1,3 @@
-# spidertb
-# spidertb
+# Using Python
+爬虫是用京东写的，就写了单线程
+爬4000条数据用时10分钟
